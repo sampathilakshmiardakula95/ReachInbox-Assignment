@@ -4,12 +4,12 @@ import {getFirestore} from "firebase/firestore"
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAVITevRnQY9y3gwSq2QRhjPTxfjsrRaXE",
-  authDomain: "reachinbox-6c7c8.firebaseapp.com",
-  projectId: "reachinbox-6c7c8",
-  storageBucket: "reachinbox-6c7c8.appspot.com",
-  messagingSenderId: "771566064875",
-  appId: "1:771566064875:web:a8fe3de7e65dea995c1aae"
+  apiKey: "AIzaSyCTNdk-gbIdNCWxdCs20ypecyZlXHIJ6uo",
+  authDomain: "clone-29d9a.firebaseapp.com",
+  projectId: "clone-29d9a",
+  storageBucket: "clone-29d9a.appspot.com",
+  messagingSenderId: "1007708556711",
+  appId: "1:1007708556711:web:e89ef8cfab8752ab4b7a82"
 };
 
 
